@@ -3,5 +3,9 @@
 
 * mariadb入ると都合悪いのでmysqlは5.7指定
 
+## 動作環境
+
+* debian
+
 ## 起動手順
 * docker-compose up --build -d
